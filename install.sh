@@ -1,0 +1,1 @@
+docker exec testplugin ./baserow.sh install-plugin --git https://github.com/kkmadhpuriya/baserow-plugin-test.git --hash 4ab2f8fb55dde72a49d658502faef771593a0b72
