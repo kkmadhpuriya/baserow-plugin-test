@@ -1,1 +1,1 @@
-docker exec testplugin ./baserow.sh install-plugin --git https://github.com/kkmadhpuriya/baserow-plugin-test.git --hash 4ab2f8fb55dde72a49d658502faef771593a0b72
+docker exec admiring_rosalind ./baserow.sh install-plugin --git https://github.com/kkmadhpuriya/baserow-plugin-test.git --hash d18b89ac06580317016e0bde55a94fc2e7cc6dd0
